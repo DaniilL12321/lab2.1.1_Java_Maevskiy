@@ -13,4 +13,4 @@ https://github.com/DaniilL12321/lab1_Java_Maevskiy.git
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/java-lab-2.git
+git clone https://github.com/DaniilL12321/lab2_Java_Maevskiy
